@@ -1,0 +1,4 @@
+show version
+show interfaces
+show interface description
+show ip interface brief

@@ -1,0 +1,5 @@
+---
+global:
+  data:
+    domain: corp.local
+    asn: 65534
